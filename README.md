@@ -9,7 +9,7 @@
 - [Contato](#contato)
 
 ## Sobre o Projeto
-O gerador de senha foi algo que sempre tive vontade de desenvolver mas nunca iniciei o projeto, até esse momento...
+O gerador de senha foi algo que sempre tive vontade de desenvolver, mas nunca iniciei o projeto, até esse momento... Bom o gerador é simples, não possuí nada de complexo, você pode inserir as letras que gostaria de utilizar na senha, assim como os dígitos e símbolos, mudar para ***False*** o que não quiser incluir, mudar a quantidade de caracteres a serem incluídos, assim como a quantidade de senhas a serem geradas, então basta executar o script que ele fará o resto.
 
 ## Github
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergiotavuencas)](https://github.com/anuraghazra/github-readme-stats)
